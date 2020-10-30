@@ -1,2 +1,8 @@
 “Fiz uma alteração
 dentro do ficheiro
+
+
+
+************
+"Alteração no branch MASTER"
+********
